@@ -1,0 +1,15 @@
+2023-12-10T23:58:32.996Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-10T23:58:58.905Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2023-12-10T23:59:16.928Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-10T23:59:17.670Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-10T23:59:58.544Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-10T23:59:59.254Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-11T00:04:03.544Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-11T00:04:04.033Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-11T00:11:45.855Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2023-12-11T00:11:51.927Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-11T00:11:52.710Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-11T00:11:54.634Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-11T00:11:55.400Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-11T00:14:34.597Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-11T00:14:35.044Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user

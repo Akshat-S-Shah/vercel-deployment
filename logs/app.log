@@ -1,0 +1,74 @@
+2023-12-10T23:52:59.548Z | INFO   | Server started in PORT | 3001
+2023-12-10T23:53:00.303Z | INFO   | DB Connection Established
+2023-12-10T23:58:31.053Z | INFO   | API HIT : [POST] /api/users/v1/register
+2023-12-10T23:58:31.455Z | INFO   | API HIT : [POST] /api/users/v1/login
+2023-12-10T23:58:32.966Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-12-10T23:58:32.996Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-10T23:58:33.008Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-10T23:58:43.403Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-12-10T23:58:58.028Z | INFO   | API HIT : [POST] /api/group/v1/add
+2023-12-10T23:58:58.838Z | INFO   | API HIT : [POST] /api/group/v1/view
+2023-12-10T23:58:58.881Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2023-12-10T23:58:58.905Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2023-12-10T23:59:06.638Z | INFO   | API HIT : [POST] /api/group/v1/view
+2023-12-10T23:59:16.897Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-12-10T23:59:16.928Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-10T23:59:17.158Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-10T23:59:17.309Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2023-12-10T23:59:17.644Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-10T23:59:17.652Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2023-12-10T23:59:17.658Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2023-12-10T23:59:17.661Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2023-12-10T23:59:17.670Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-10T23:59:34.657Z | INFO   | API HIT : [POST] /api/users/v1/view
+2023-12-10T23:59:58.521Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-12-10T23:59:58.544Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-10T23:59:58.778Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-10T23:59:58.889Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2023-12-10T23:59:59.221Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-10T23:59:59.226Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2023-12-10T23:59:59.230Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2023-12-10T23:59:59.235Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2023-12-10T23:59:59.254Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-11T00:04:02.782Z | INFO   | API HIT : [POST] /api/users/v1/login
+2023-12-11T00:04:03.524Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-12-11T00:04:03.544Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-11T00:04:03.570Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-11T00:04:03.992Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2023-12-11T00:04:04.000Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-11T00:04:04.005Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2023-12-11T00:04:04.010Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2023-12-11T00:04:04.033Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-11T00:04:04.043Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2023-12-11T00:11:42.595Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-11T00:11:45.496Z | INFO   | API HIT : [POST] /api/group/v1/view
+2023-12-11T00:11:45.840Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2023-12-11T00:11:45.855Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2023-12-11T00:11:51.908Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-12-11T00:11:51.927Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-11T00:11:52.248Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-11T00:11:52.513Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2023-12-11T00:11:52.679Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-11T00:11:52.685Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2023-12-11T00:11:52.689Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2023-12-11T00:11:52.694Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2023-12-11T00:11:52.710Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-11T00:11:52.843Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-12-11T00:11:54.614Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-12-11T00:11:54.634Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-11T00:11:54.955Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-11T00:11:55.217Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2023-12-11T00:11:55.367Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2023-12-11T00:11:55.371Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-11T00:11:55.374Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2023-12-11T00:11:55.379Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2023-12-11T00:11:55.400Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2023-12-11T00:14:34.577Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-12-11T00:14:34.597Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-12-11T00:14:34.613Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-11T00:14:34.701Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2023-12-11T00:14:34.924Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-12-11T00:14:35.024Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2023-12-11T00:14:35.027Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2023-12-11T00:14:35.029Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2023-12-11T00:14:35.044Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
